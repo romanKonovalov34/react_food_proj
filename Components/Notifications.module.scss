@@ -1,0 +1,25 @@
+.notifications {
+    display: flex;
+    flex-direction: column;
+    max-width: 390px;
+    width: 100%;
+}
+
+.allNotifications {
+    margin-top: 60px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.deleteButton {
+    background-color: transparent;
+    border: none;
+    color: rgb(255, 168, 62);
+}

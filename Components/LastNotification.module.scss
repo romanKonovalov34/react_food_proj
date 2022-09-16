@@ -1,0 +1,15 @@
+.lastNotification {
+    height: 205px;
+    background-color: rgba(255, 140, 0, 0.3);
+    border-radius: 20px;
+    padding: 20px 140px 20px 20px;
+    position: relative;
+}
+
+.image {
+    max-width: 160px;
+    width: 100%;
+    position: absolute;
+    right: -20px;
+    bottom: -20px;
+}
